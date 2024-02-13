@@ -1,21 +1,3 @@
-// const container = document.querySelector(".container");
-
-// container.addEventListener("mouseenter", () => {
-//   let opacity = 1;
-//   const delay = 3000; // Thời gian delay (mili giây)
-
-//   setTimeout(() => {
-//     const interval = setInterval(() => {
-//       opacity -= 0.1;
-//       container.style.opacity = opacity;
-//       if (opacity <= 0) {
-//         clearInterval(interval);
-//         container.style.display = "none";
-//       }
-//     }, 100);
-//   }, delay);
-// });
-
 const container = document.querySelector(".container");
 const envelopeSecond = document.querySelector(".envelope-second");
 const cardSecond = document.querySelector(".card-second");
