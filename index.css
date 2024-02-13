@@ -178,7 +178,7 @@ body {
 }
 /* card-second */
 .envelope-second {
-  content: url(https://assets.codepen.io/4927073/Envelope3.png);
+  content: url(./img/Envelope3.png);
   width: 430px;
   position: absolute;
   left: 5%;
@@ -245,8 +245,8 @@ body {
   background-color: #fff;
 }
 .text-container {
-  width: 90%;
-  height: 90%;
+  width: 88%;
+  height: 100%;
   margin: auto;
   display: flex;
   justify-content: center;
